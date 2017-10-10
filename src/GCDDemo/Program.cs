@@ -20,6 +20,7 @@ namespace GCDDemo
             if(number1 < number2)
             {
                 Console.WriteLine("first number should be greater");
+                Console.ReadKey();
             }
             else
             {
