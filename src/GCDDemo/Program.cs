@@ -31,6 +31,7 @@ namespace GCDDemo
             }
         }
 
+        // peformance O(Log N)
         private static long GenerateGCD(long num1,long num2)
         {
             while(num2 != 0)
