@@ -9,6 +9,7 @@ namespace GCDDemo
     {
         public static void Main(string[] args)
         {
+            // added in github
             long number1 = 0;
             Console.WriteLine("Enter first number");
             var num1 = Console.ReadLine();
